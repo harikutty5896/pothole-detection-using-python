@@ -9,9 +9,7 @@ Pothole detection using python and yolov4. By using this project we can able to 
 ![image](https://user-images.githubusercontent.com/57849338/229285800-00c633dc-5262-411f-8b93-142359306839.png)
 
 
-## Sample Video & Image :
+## Sample Image :
 ![PothHoleDetectedImage](https://user-images.githubusercontent.com/57849338/229285863-f5507cbe-76c0-4779-8756-98f49104e3be.jpg)
 
-Video Output:
-https://user-images.githubusercontent.com/57849338/229286179-001f1ee0-6d1c-44b1-9167-a33c387469bd.mp4
 
